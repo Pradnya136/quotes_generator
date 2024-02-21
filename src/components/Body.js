@@ -24,7 +24,7 @@ const Body = () =>{
                 <button
                 className="w-24 bg-green-300 h-10 border-red shadow-xl
                 rounded-md text-gray-900 text-sm hover:bg-green-400"
-               
+               onClick={()=>{console.log("clicked")}}
                 >Next quote</button>
             </div>
             <form>
