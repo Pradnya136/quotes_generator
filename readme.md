@@ -18,7 +18,15 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
+What is github - it is an hosting platform often refered to as cloud that lets dev manage
+and track their source code and its progression over time using a version control system.
+github is userinterface that works direclty with a version control system in this case git , it
+gives us a ability to host our code on cloud 
 
+what is source code - in simplest terms its a bunch of files and folders with code in them
+
+version control - its a software tool that helps developers manage and track their code over 
+time
 
 
 
